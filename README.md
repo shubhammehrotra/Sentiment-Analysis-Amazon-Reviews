@@ -4,4 +4,8 @@ An important part of our information-gathering behavior has always been to find 
 
 The code for the amazon review scraper can be found here: https://github.com/shubhammehrotra/AmazonReviewScraper
 
+Algorithm based on the research paper: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/34368.pdf
+
+The report and presentation can be found inside the data folder.
+
 PS: Please change the file paths within the code to run it. The current ones are relative to my system.
